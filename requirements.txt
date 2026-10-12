@@ -1,0 +1,8 @@
+anthropic>=1.13
+hydradb-sdk>=2,<3
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+pydantic>=2.7
+python-dotenv>=1.0
+pytest>=8
