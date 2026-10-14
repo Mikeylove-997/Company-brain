@@ -6,7 +6,7 @@ Built for a fictional outdoor apparel company, Ridgeline Outfitters. All financi
 
 ## Try it
 
-**Live app:** _link coming_
+**Live app:** https://ridgeline-company-brain.streamlit.app/
 
 1. Click **Ask the brain** to run the preloaded question: *"Why was profit below budget, and what should management watch next month?"* The first run takes 10–20 seconds.
 2. **Answer** tab: the four headline numbers, each driver of the September miss with its evidence rating, and what to watch in October.
